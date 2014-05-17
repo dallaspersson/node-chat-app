@@ -1,0 +1,23 @@
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+#content {
+  width: 70%;
+  height: 300px;
+  margin: 0 0 20px 0;
+  border: solid 1px #999;
+  overflow-y: scroll;
+  float: left;
+}
+
+.controls {
+  float: right;
+  width: 28%;
+}
+
+#name,
+#field {
+  width: 100%;
+}
